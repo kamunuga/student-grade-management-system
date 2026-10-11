@@ -1,2 +1,5 @@
 <Solution>
+  <Project Path="StudentGradeManager.ConsoleApp/StudentGradeManager.ConsoleApp.csproj" />
+  <Project Path="StudentGradeManager.Core/StudentGradeManager.Core.csproj" />
+  <Project Path="StudentGradeManager.WinForms/StudentGradeManager.WinForms.csproj" />
 </Solution>
